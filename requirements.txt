@@ -1,1 +1,9 @@
+paddleocr
+langchain
+openai
+faiss-cpu
+flask
+opencv-python
+numpy
+pandas
 
